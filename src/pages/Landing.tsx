@@ -131,7 +131,7 @@ export default function Landing() {
                     <GraduationCap className="w-6 h-6 text-primary" />
                   </div>
                   <p className="text-sm text-muted-foreground mb-1">Doctor</p>
-                  <p className="font-semibold">Dr / Mona Elbedwehy </p>
+                  <p className="font-semibold">Dr / Mona Nagy Elbedwehy </p>
                 </motion.div>
 
                 {/* Supervisor */}
@@ -155,8 +155,8 @@ export default function Landing() {
                     <User className="w-6 h-6 text-greedy" />
                   </div>
                   <p className="text-sm text-muted-foreground mb-1">Student</p>
-                  <p className="font-semibold">Fares Elghopashy</p>
-                  <p className="text-xs text-muted-foreground mt-1">ID: [OPTIONAL ID]</p>
+                  <p className="font-semibold">Fares Raouf Elghopashy</p>
+                  <p className="text-xs text-muted-foreground mt-1">ID: 811657776</p>
                 </motion.div>
               </div>
             </div>
