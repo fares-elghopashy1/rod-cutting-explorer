@@ -143,7 +143,7 @@ export default function Landing() {
                     <BookOpen className="w-6 h-6 text-dp" />
                   </div>
                   <p className="text-sm text-muted-foreground mb-1">Supervisor</p>
-                  <p className="font-semibold">Eng / Maya Hesham </p>
+                  <p className="font-semibold">Eng / Mohamed Elmasry </p>
                 </motion.div>
 
                 {/* Student */}
@@ -155,8 +155,7 @@ export default function Landing() {
                     <User className="w-6 h-6 text-greedy" />
                   </div>
                   <p className="text-sm text-muted-foreground mb-1">Student</p>
-                  <p className="font-semibold">Fares Raouf Elghopashy</p>
-                  <p className="text-xs text-muted-foreground mt-1">ID: 811657776</p>
+                  <p className="font-semibold">Ziad Nagy Moussa</p>
                 </motion.div>
               </div>
             </div>
